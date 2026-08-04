@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saipardeshi&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/saipardeshi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-pardeshi-350184251"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saipardeshi001@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -85,6 +85,6 @@
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/saipardeshi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-pardeshi-350184251"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saipardeshi001@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
