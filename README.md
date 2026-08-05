@@ -3,8 +3,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saipardeshi&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/sai-pardeshi-350184251"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saipardeshi001@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-pardeshi-350184251">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saipardeshi001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -14,7 +18,7 @@
 * 🎯 Java Full Stack Developer based in India, focused on building production-ready backend systems and clean frontend experiences
 * 💼 Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to **PGMate** — a live PG (paying guest) management platform
 * 🌱 Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
-* 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**), **Junnar Tourist Guide**, and an **Employee Management System**
+* 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**) and **Junnar Tourist Guide**
 * 🎓 B.Tech in Computer Engineering (CGPA: 8.26) from G.H. Raisoni College of Engineering and Management, Pune
 * 📜 Certified **Java Full Stack Developer** from Seed Infotech, Pune
 * 📫 Let's connect — details below!
@@ -23,7 +27,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+#### 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -32,7 +36,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-**Backend**
+#### ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white" />
@@ -47,7 +51,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
-**Frontend**
+#### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -55,14 +59,14 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Databases**
+#### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+#### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -75,7 +79,7 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" />
 </p>
 
-**Design**
+#### 🎨 Design
 
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
@@ -98,7 +102,6 @@
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[bindass.co](https://github.com/saipardeshi/bindass.co-Frontend)**                     | Full-stack streetwear e-commerce platform with JWT authentication, Google OAuth2, Razorpay payment integration, Cloudinary image handling, and PDF invoice generation |
 | **[Junnar Tourist Guide](https://github.com/saipardeshi/Junnar_tourist_guide_frontend)** | Full-stack application to explore tourist spots with RESTful APIs, MongoDB Atlas, CRUD operations, and a responsive React UI                                          |
-| **Employee Management System**                                                           | Web-based CRUD application for managing employee records, departments, and salary details using Advanced Java, Servlets, JDBC, and MySQL                              |
 
 ---
 
@@ -108,9 +111,21 @@
 
 ---
 
+### 🎓 Education
+
+**B.Tech – Computer Engineering**
+G.H. Raisoni College of Engineering and Management, Pune
+**CGPA: 8.26 | 2021 – 2025**
+
+---
+
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sai-pardeshi-350184251"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saipardeshi001@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-pardeshi-350184251">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saipardeshi001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
