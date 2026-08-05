@@ -11,18 +11,20 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Java Full Stack Developer based in India, focused on building production-ready backend systems and clean frontend experiences
-- 💼 Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, building **PGMate** — a live PG (paying guest) management platform
-- 🌱 Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
-- 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**) and a **Junnar Tourist Guide** web app
-- 🎓 B.Tech in Computer Engineering (CGPA: 8.26) from G.H. Raisoni College of Engineering and Management, Pune
-- 📫 Let's connect — details below!
+* 🎯 Java Full Stack Developer based in India, focused on building production-ready backend systems and clean frontend experiences
+* 💼 Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to **PGMate** — a live PG (paying guest) management platform
+* 🌱 Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
+* 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**), **Junnar Tourist Guide**, and an **Employee Management System**
+* 🎓 B.Tech in Computer Engineering (CGPA: 8.26) from G.H. Raisoni College of Engineering and Management, Pune
+* 📜 Certified **Java Full Stack Developer** from Seed Infotech, Pune
+* 📫 Let's connect — details below!
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -31,15 +33,22 @@
 </p>
 
 **Backend**
+
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlet-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
 **Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
@@ -47,18 +56,29 @@
 </p>
 
 **Databases**
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 **Tools & Platforms**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" />
+</p>
+
+**Design**
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -74,11 +94,17 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| **[PGMate](https://pgmate.in)** | Live PG (paying guest) accommodation management platform — Spring Boot backend, React frontend, MySQL/MongoDB, Razorpay payments |
-| **[bindass.co](https://github.com/saipardeshi/bindass.co-Frontend)** | Full-stack streetwear e-commerce platform with JWT auth, Google OAuth2, Razorpay, Cloudinary image handling, and PDF invoice generation |
-| **[Junnar Tourist Guide](https://github.com/saipardeshi/Junnar_tourist_guide_frontend)** | Full-stack app to explore tourist spots with RESTful APIs, MongoDB Atlas, and a responsive React UI |
+| Project                                                                                  | Description                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[bindass.co](https://github.com/saipardeshi/bindass.co-Frontend)**                     | Full-stack streetwear e-commerce platform with JWT authentication, Google OAuth2, Razorpay payment integration, Cloudinary image handling, and PDF invoice generation |
+| **[Junnar Tourist Guide](https://github.com/saipardeshi/Junnar_tourist_guide_frontend)** | Full-stack application to explore tourist spots with RESTful APIs, MongoDB Atlas, CRUD operations, and a responsive React UI                                          |
+| **Employee Management System**                                                           | Web-based CRUD application for managing employee records, departments, and salary details using Advanced Java, Servlets, JDBC, and MySQL                              |
+
+---
+
+### 📜 Certification
+
+* **Java Full Stack Developer** — Seed Infotech, Pune
 
 ---
 
