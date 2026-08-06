@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 Java Full Stack Developer based in India, focused on building production-ready backend systems and clean frontend experiences
-- 💼 Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to **PGMate** — a live PG (paying guest) management platform
+- 🎯 Java Full Stack Developer based in Pune, India, focused on building production-ready backend systems and clean frontend experiences
+- 💼 Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to a **live SaaS-based full-stack Java production project** — building REST APIs, role-based UI, and end-to-end feature delivery
 - 🌱 Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
-- 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**) and **Junnar Tourist Guide**
+- 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**), **Junnar Tourist Guide**, and an **Employee Management System**
 - 🎓 B.Tech in Computer Engineering with a **CGPA of 8.26** from G.H. Raisoni College of Engineering and Management, Pune
 - 📜 Certified **Java Full Stack Developer** from Seed Infotech, Pune
 - 📫 Let's connect — details below!
@@ -94,14 +94,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saipardeshi&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=saipardeshi&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"
     alt="Sai's GitHub Stats"
-    height="165"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipardeshi&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipardeshi&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
     alt="Sai's Top Languages"
-    height="165"
+    width="35%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saipardeshi&theme=radical&hide_border=true"
+    alt="Sai's GitHub Streak"
+    width="49%"
   />
 </p>
 
@@ -113,6 +121,20 @@
 |---|---|
 | **[bindass.co](https://github.com/saipardeshi/bindass.co-Frontend)** | Full-stack streetwear e-commerce platform with JWT authentication, Google OAuth2, Razorpay payment integration, Cloudinary image handling, and PDF invoice generation |
 | **[Junnar Tourist Guide](https://github.com/saipardeshi/Junnar_tourist_guide_frontend)** | Full-stack application to explore tourist spots with RESTful APIs, MongoDB Atlas, CRUD operations, and a responsive React UI |
+| **Employee Management System** | Web-based CRUD system using Advanced Java, Servlets, and JDBC to manage employee records, departments, and salary details with clean separation of business and data layers |
+
+---
+
+## 💼 Experience
+
+**Java Full Stack Developer Intern** — Fourise Software Solutions, Kharadi, Pune  
+*Feb 2026 – Present*
+
+- Developing and delivering full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
+- Building and integrating RESTful APIs across modules, handling complete data flow from frontend to backend database
+- Implementing responsive, role-based UI across multiple user panels
+- Adding multi-language support and resolving UI/UX bugs across the application
+- Collaborating with the team following agile development practices and sprint cycles
 
 ---
 
@@ -126,8 +148,11 @@
 
 **B.Tech – Computer Engineering**  
 G.H. Raisoni College of Engineering and Management, Pune  
-
 **CGPA: 8.26 | 2021 – 2025**
+
+**HSC (Class XII)**  
+Shri Shiv Chhatrapati College, Junnar, Pune  
+**Percentage: 82.33% | 2021**
 
 ---
 
