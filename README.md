@@ -90,6 +90,18 @@
 
 ---
 
+## GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saipardeshi&theme=radical&hide_border=true"
+    alt="Sai's GitHub Streak"
+    width="49%"
+  />
+</p>
+
+---
+
 ## Featured Projects
 
 | Project | Description |
