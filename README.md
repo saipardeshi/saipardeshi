@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Pardeshi</h1>
+<h1 align="center">Hi, I'm Sai Pardeshi</h1>
 
 <h3 align="center">
   Java Full Stack Developer | Java • Spring Boot • React • MySQL • MongoDB
@@ -16,21 +16,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎯 Java Full Stack Developer based in Pune, India, focused on building production-ready backend systems and clean frontend experiences
-- 💼 Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to a **live SaaS-based full-stack Java production project** — building REST APIs, role-based UI, and end-to-end feature delivery
-- 🌱 Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
-- 🏗️ Built full-stack projects including a streetwear e-commerce platform (**bindass.co**), **Junnar Tourist Guide**, and an **Employee Management System**
-- 🎓 B.Tech in Computer Engineering with a **CGPA of 8.26** from G.H. Raisoni College of Engineering and Management, Pune
-- 📜 Certified **Java Full Stack Developer** from Seed Infotech, Pune
-- 📫 Let's connect — details below!
+- Java Full Stack Developer based in Pune, India, focused on building production-ready backend systems and clean, usable frontend experiences
+- Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to a **live SaaS-based full-stack Java production platform** — building REST APIs, role-based UI, and end-to-end feature delivery
+- Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
+- Built full-stack projects including a streetwear e-commerce platform (**bindass.co**), **Junnar Tourist Guide**, and an **Employee Management System**
+- B.Tech in Computer Engineering with a **CGPA of 8.26** from G.H. Raisoni College of Engineering and Management, Pune
+- Certified **Java Full Stack Developer** from Seed Infotech, Pune
+- Let's connect — details below
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Framework" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=swagger&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
@@ -62,14 +62,14 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
-### 🎨 Design
+### Design
 
 <p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
@@ -90,32 +90,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saipardeshi&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"
-    alt="Sai's GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipardeshi&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Sai's Top Languages"
-    width="35%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saipardeshi&theme=radical&hide_border=true"
-    alt="Sai's GitHub Streak"
-    width="49%"
-  />
-</p>
-
----
-
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
@@ -125,9 +100,9 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Java Full Stack Developer Intern** — Fourise Software Solutions, Kharadi, Pune  
+**Java Full Stack Developer Intern** — Fourise Software Solutions, Kharadi, Pune
 *Feb 2026 – Present*
 
 - Developing and delivering full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
@@ -138,25 +113,25 @@
 
 ---
 
-## 📜 Certification
+## Certification
 
 - **Java Full Stack Developer** — Seed Infotech, Pune
 
 ---
 
-## 🎓 Education
+## Education
 
-**B.Tech – Computer Engineering**  
-G.H. Raisoni College of Engineering and Management, Pune  
+**B.Tech – Computer Engineering**
+G.H. Raisoni College of Engineering and Management, Pune
 **CGPA: 8.26 | 2021 – 2025**
 
-**HSC (Class XII)**  
-Shri Shiv Chhatrapati College, Junnar, Pune  
+**HSC (Class XII)**
+Shri Shiv Chhatrapati College, Junnar, Pune
 **Percentage: 82.33% | 2021**
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/sai-pardeshi-350184251">
