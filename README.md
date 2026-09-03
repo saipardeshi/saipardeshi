@@ -115,7 +115,7 @@
 ## Experience
 
 **Java Full Stack Developer Intern** — Fourise Software Solutions, Kharadi, Pune
-*Feb 2026 – Present*
+*Feb 2026 – Aug 2026*
 
 - Developing and delivering full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
 - Building and integrating RESTful APIs across modules, handling complete data flow from frontend to backend database
