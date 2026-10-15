@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Sai Pardeshi</h1>
 
 <h3 align="center">
@@ -139,4 +138,3 @@ Shri Shiv Chhatrapati College, Junnar, Pune
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-```
