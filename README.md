@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi, I'm Sai Pardeshi</h1>
 
 <h3 align="center">
@@ -5,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <b>Open to work:</b> Java / Full Stack Developer roles • Pune, Mumbai, Bangalore, Remote • <a href="mailto:saipardeshi001@gmail.com">saipardeshi001@gmail.com</a>
+  <b>Open to work</b> • <a href="mailto:saipardeshi001@gmail.com">saipardeshi001@gmail.com</a>
 </p>
 
 <p align="center">
@@ -138,3 +139,4 @@ Shri Shiv Chhatrapati College, Junnar, Pune
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+```
