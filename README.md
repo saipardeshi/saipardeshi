@@ -19,7 +19,7 @@
 ## About Me
 
 - Java Full Stack Developer based in Pune, India, focused on building production-ready backend systems and clean, usable frontend experiences
-- Currently working as a **Java Full Stack Developer Intern** at Fourise Software Solutions, contributing to a **live SaaS-based full-stack Java production platform** — building REST APIs, role-based UI, and end-to-end feature delivery
+- Completed a **Java Full Stack Developer Internship** at Fourise Software Solutions, where I contributed to a **live SaaS-based full-stack Java production platform** — building REST APIs, role-based UI, and end-to-end feature delivery
 - Deepening my expertise in Spring Boot, Spring Security, JWT, REST API design, and System Design
 - Built full-stack projects including a streetwear e-commerce platform (**bindass.co**), **Junnar Tourist Guide**, and an **Employee Management System**
 - B.Tech in Computer Engineering with a **CGPA of 8.26** from G.H. Raisoni College of Engineering and Management, Pune
@@ -117,11 +117,11 @@
 **Java Full Stack Developer Intern** — Fourise Software Solutions, Kharadi, Pune
 *Feb 2026 – Aug 2026*
 
-- Developing and delivering full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
-- Building and integrating RESTful APIs across modules, handling complete data flow from frontend to backend database
-- Implementing responsive, role-based UI across multiple user panels
-- Adding multi-language support and resolving UI/UX bugs across the application
-- Collaborating with the team following agile development practices and sprint cycles
+- Developed and delivered full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
+- Built and integrated RESTful APIs across modules, handling complete data flow from frontend to backend database
+- Implemented responsive, role-based UI across multiple user panels
+- Added multi-language support and resolved UI/UX bugs across the application
+- Collaborated with the team following agile development practices and sprint cycles
 
 ---
 
