@@ -105,7 +105,7 @@
 - Developed and delivered full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
 - Built and integrated **20+ RESTful APIs** across modules, handling complete data flow from frontend to backend database
 - Implemented responsive, role-based UI across **5 user panels**
-- Added multi-language support and resolved **30+ UI/UX bugs** across the application
+- Added multi-language support and resolved **UI/UX bugs** across the application
 - Collaborated with the team following agile development practices and sprint cycles
 
 ---
