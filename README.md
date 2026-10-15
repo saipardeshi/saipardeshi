@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+  <b>Open to work:</b> Java / Full Stack Developer roles • Pune, Mumbai, Bangalore, Remote • <a href="mailto:saipardeshi001@gmail.com">saipardeshi001@gmail.com</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saipardeshi&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/sai-pardeshi-350184251">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -79,36 +83,17 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
-</p>
-
-### Design
-
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saipardeshi&theme=radical&hide_border=true"
-    alt="Sai's GitHub Streak"
-    width="49%"
-  />
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| **[bindass.co](https://github.com/saipardeshi/bindass.co-Frontend)** | Full-stack streetwear e-commerce platform with JWT authentication, Google OAuth2, Razorpay payment integration, Cloudinary image handling, and PDF invoice generation |
-| **[Junnar Tourist Guide](https://github.com/saipardeshi/Junnar_tourist_guide_frontend)** | Full-stack application to explore tourist spots with RESTful APIs, MongoDB Atlas, CRUD operations, and a responsive React UI |
-| **Employee Management System** | Web-based CRUD system using Advanced Java, Servlets, and JDBC to manage employee records, departments, and salary details with clean separation of business and data layers |
+| Project | Description | Links |
+|---|---|---|
+| **bindass.co** | Full-stack streetwear e-commerce platform with JWT authentication, Google OAuth2, Razorpay payment integration, Cloudinary image handling, and PDF invoice generation | [Live Demo](https://bindass-co-frontend.vercel.app/) • [GitHub](https://github.com/saipardeshi/bindass.co-Frontend) |
+| **Junnar Tourist Guide** | Full-stack application to explore tourist spots with RESTful APIs, MongoDB Atlas, CRUD operations, and a responsive React UI | [Live Demo](https://junnar-tourist-guide-frontend.vercel.app/) • [GitHub](https://github.com/saipardeshi/Junnar_tourist_guide_frontend) |
+| **Employee Management System** | Web-based CRUD system using Advanced Java, Servlets, and JDBC to manage employee records, departments, and salary details with clean separation of business and data layers | — |
 
 ---
 
@@ -118,9 +103,9 @@
 *Feb 2026 – Aug 2026*
 
 - Developed and delivered full-stack features on a **live SaaS-based production platform** using React.js, Spring Boot, and MongoDB Atlas
-- Built and integrated RESTful APIs across modules, handling complete data flow from frontend to backend database
-- Implemented responsive, role-based UI across multiple user panels
-- Added multi-language support and resolved UI/UX bugs across the application
+- Built and integrated **20+ RESTful APIs** across modules, handling complete data flow from frontend to backend database
+- Implemented responsive, role-based UI across **3 user panels**
+- Added multi-language support and resolved **30+ UI/UX bugs** across the application
 - Collaborated with the team following agile development practices and sprint cycles
 
 ---
